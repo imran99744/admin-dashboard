@@ -5,8 +5,8 @@ This is an admin dashboard project built with React, Sass, ContextAPI, React Rou
 ## Installation
 To get started with this project, you can clone this repository and install the necessary dependencies. To do this, follow these steps:
 
-- Clone the repository using git clone  `https://github.com/yourusername/your-repo.git`  
-- Navigate into the project directory using   `cd your-repo`
+- Clone the repository using git clone  `https://github.com/imran99744/admin-dashboard.git`  
+- Navigate into the project directory using   `cd admin-dashboard`
 - Install the dependencies using `npm install`
 
 ## Usage
